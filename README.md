@@ -6,10 +6,24 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
+* [Compare two versions](#compare-two-versions)
+* [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
+
+# Compare two versions
+
+[Source Code](source/is_version_greater_than.dart)
+
+![](images/is_version_greater_than.png)
+
+# Benchmark async method
+
+[Source Code](source/benchmark_async.dart)
+
+![](images/benchmark_async.png)
 
 # JSON decoding
 
 [Source Code + Tests](source/json_try_decode.dart)
 
-![](images/json_try_decode.jpg)
+![](images/json_try_decode.png)
