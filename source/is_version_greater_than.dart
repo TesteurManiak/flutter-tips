@@ -14,3 +14,17 @@ bool isVersionGreaterThan({
   }
   return isGreater;
 }
+
+// Test it
+test("should return false if version is inferior", () {
+  expect(isVersionGreaterThan("1.0.0", "1.0.1"), false);
+});
+
+test("should return false if version is equal", () {
+  expect(isVersionGreaterThan("1.0.0", "1.0.0"), false);
+});
+
+test("should return true if version is greater", () {
+  expect(isVersionGreaterThan("1.0.1", "1.0.0"), true);
+});
+
