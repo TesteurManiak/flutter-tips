@@ -11,10 +11,12 @@ Object? jsonTryDecode(String source, {JsonDecodeReviver? reviver}) {
 }
 
 // Test it
-test("should return null if invalid source", () {
-  expect(jsonTryDecode(""), isNull);
-});
+void main() {
+  test("should return null if invalid source", () {
+    expect(jsonTryDecode(""), isNull);
+  });
 
-test("should return a valid JSON if source is correct", () {
-  expect(jsonTryDecode('{"a":1}'), {"a": 1});
-});
+  test("should return a valid JSON if source is correct", () {
+    expect(jsonTryDecode('{"a":1}'), {"a": 1});
+  });
+}

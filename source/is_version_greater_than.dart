@@ -16,15 +16,25 @@ bool isVersionGreaterThan({
 }
 
 // Test it
-test("should return false if version is inferior", () {
-  expect(isVersionGreaterThan("1.0.0", "1.0.1"), false);
-});
+void main() {
+  test("should return false if version is inferior", () {
+    expect(
+      isVersionGreaterThan(newVersion: "1.0.0", currentVersion: "1.0.1"),
+      false,
+    );
+  });
 
-test("should return false if version is equal", () {
-  expect(isVersionGreaterThan("1.0.0", "1.0.0"), false);
-});
+  test("should return false if version is equal", () {
+    expect(
+      isVersionGreaterThan(newVersion: "1.0.0", currentVersion: "1.0.0"),
+      false,
+    );
+  });
 
-test("should return true if version is greater", () {
-  expect(isVersionGreaterThan("1.0.1", "1.0.0"), true);
-});
-
+  test("should return true if version is greater", () {
+    expect(
+      isVersionGreaterThan(newVersion: "1.0.1", currentVersion: "1.0.0"),
+      true,
+    );
+  });
+}
