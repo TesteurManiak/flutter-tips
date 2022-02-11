@@ -1,6 +1,6 @@
 # Flutter Tips
 
-![Twitter Follow](https://img.shields.io/twitter/follow/TesteurManiak?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TesteurManiak?style=social)](https://twitter.com/TesteurManiak)
 
 Some tips and tricks in Flutter & Dart.
 
