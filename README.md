@@ -1,8 +1,8 @@
 # Flutter Tips
 
-Some tips and tricks in Flutter & Dart. 
+![Twitter Follow](https://img.shields.io/twitter/follow/TesteurManiak?style=social)
 
-**Inspired by [vandadnp's](https://github.com/vandadnp) repository [flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)**
+Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
@@ -27,3 +27,8 @@ Some tips and tricks in Flutter & Dart.
 [Source Code + Tests](source/json_try_decode.dart)
 
 ![](images/json_try_decode.png)
+
+# Credits
+
+* **Inspiration**: [vandadnp's](https://github.com/vandadnp) repository [flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)
+* **Code snippets**: [carbon](https://carbon.now.sh/)
