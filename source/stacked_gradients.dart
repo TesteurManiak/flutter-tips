@@ -1,12 +1,12 @@
 /// Returns a [Stack] widget with multiple gradients overlapped in the
 /// background.
 class StackedGradients extends StatelessWidget {
-  final Widget child;
+  final Widget? child;
   final List<Gradient> gradients;
 
   const StackedGradients({
     Key? key,
-    required this.child,
+    this.child,
     required this.gradients,
   }) : super(key: key);
 
@@ -18,7 +18,7 @@ class StackedGradients extends StatelessWidget {
           Positioned.fill(
             child: DecoratedBox(decoration: BoxDecoration(gradient: e)),
           ),
-        child,
+        if (child != null) child!,
       ],
     );
   }
