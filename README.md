@@ -6,9 +6,18 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
+* [Stacked Gradients](#stacked-gradients)
 * [Compare two versions](#compare-two-versions)
 * [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
+
+# Stacked gradients
+
+[Source Code](source/stacked_gradients.dart)
+
+[Try a demo](https://dartpad.dev/?id=0164591f591b08e52c6785307e52fd4f)
+
+![](images/stacked_gradients.png)
 
 # Compare two versions
 
