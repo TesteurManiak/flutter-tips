@@ -6,10 +6,17 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
+* [String contains diacritics insensitive](#string-contains-diacritics-insensitive)
 * [Stacked Gradients](#stacked-gradients)
 * [Compare two versions](#compare-two-versions)
 * [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
+
+# String contains diacritics insensitive
+
+[Source Code + Tests](source/contains_no_diacritics.dart)
+
+![](images/contains_no_diacritics.png)
 
 # Stacked gradients
 
