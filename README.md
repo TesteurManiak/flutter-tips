@@ -11,6 +11,13 @@ Some tips and tricks in Flutter & Dart.
 * [Compare two versions](#compare-two-versions)
 * [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
+* [Stream Converter](#stream-converter)
+
+# Stream Converter
+
+[Source Code](source/stream_converter.dart)
+
+![](images/stream_converter.png)
 
 # String contains diacritics insensitive
 
