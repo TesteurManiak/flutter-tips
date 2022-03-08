@@ -6,12 +6,12 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
+* [Stream Converter](#stream-converter)
 * [String contains diacritics insensitive](#string-contains-diacritics-insensitive)
 * [Stacked Gradients](#stacked-gradients)
 * [Compare two versions](#compare-two-versions)
 * [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
-* [Stream Converter](#stream-converter)
 
 # Stream Converter
 
