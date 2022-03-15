@@ -6,12 +6,17 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
+* [Safe Complete](#safe-complete)
 * [Stream Converter](#stream-converter)
 * [String contains diacritics insensitive](#string-contains-diacritics-insensitive)
 * [Stacked Gradients](#stacked-gradients)
 * [Compare two versions](#compare-two-versions)
 * [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
+
+# Safe Complete
+
+[Source Code](source/safe_complete.dart)
 
 # Stream Converter
 
