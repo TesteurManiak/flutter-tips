@@ -18,6 +18,8 @@ Some tips and tricks in Flutter & Dart.
 
 [Source Code](source/safe_complete.dart)
 
+![](images/safe_complete.png)
+
 # Stream Converter
 
 [Source Code](source/stream_converter.dart)
@@ -59,4 +61,4 @@ Some tips and tricks in Flutter & Dart.
 # Credits
 
 * **Inspiration**: [vandadnp's](https://github.com/vandadnp) repository [flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)
-* **Code snippets**: [carbon](https://carbon.now.sh/)
+* **Code snippets**: [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)

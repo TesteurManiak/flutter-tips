@@ -1,3 +1,18 @@
+/// Parse and compare [newVersion] with [currentVersion].
+///
+/// If [newVersion] is greater than [currentVersion], return `true`, otherwise
+/// return `false`.
+///
+/// The expected format is `x.y.z` where `x`, `y` and `z` are integers.
+///
+/// Example:
+///
+/// ```dart
+/// String a = "1.39.2";
+/// String b = "1.38.14";
+///
+/// isVersionGreaterThan(newVersion: a, currentVersion: b); // true
+/// ```
 bool isVersionGreaterThan({
   required String newVersion,
   required String currentVersion,
