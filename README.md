@@ -18,6 +18,8 @@ Some tips and tricks in Flutter & Dart.
 
 [Source Code](source/safe_complete.dart)
 
+![](images/safe_complete.png)
+
 # Stream Converter
 
 [Source Code](source/stream_converter.dart)
