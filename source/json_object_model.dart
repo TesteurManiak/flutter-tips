@@ -2,10 +2,8 @@ import "dart:convert";
 
 import "package:equatable/equatable.dart";
 
-/// {@template jsonObjectModel}
 /// Extending this class will ensure that your class can be converted to a JSON
 /// object.
-/// {@endtemplate}
 abstract class JsonObjectModel extends Equatable {
   const JsonObjectModel();
 
@@ -20,13 +18,9 @@ abstract class JsonObjectModel extends Equatable {
   String toString() => toRawJson();
 }
 
-/// {@macro jsonObjectModel}
-///
-/// This class provide a default implementation of [toJson], based on the
+/// This mixin provide a default implementation of [toJson], based on the
 /// [jsonKeys] property.
-abstract class AutoJsonModel extends JsonObjectModel {
-  const AutoJsonModel();
-
+mixin AutoJsonMixin on JsonObjectModel {
   /// Declare the keys used for the JSON. You must ensure that the length is the
   /// same as the [props].
   ///
@@ -106,7 +100,7 @@ class MyUser extends JsonObjectModel {
   }
 }
 
-class MyUser2 extends AutoJsonModel {
+class MyUser2 extends JsonObjectModel with AutoJsonMixin {
   final String company;
   final String username;
   final String password;
