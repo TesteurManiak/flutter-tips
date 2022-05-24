@@ -6,6 +6,7 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
+* [Go Router Uri](#go-router-uri)
 * [Json Object Model](#json-object-model)
 * [Pump App Tester](#pump-app-tester)
 * [Safe Complete](#safe-complete)
@@ -15,6 +16,12 @@ Some tips and tricks in Flutter & Dart.
 * [Compare two versions](#compare-two-versions)
 * [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
+
+# Go Router Uri
+
+[Source code](source/go_router_uri.dart)
+
+![](images/go_router_uri.png)
 
 # Json Object Model
 
