@@ -6,6 +6,7 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
+* [Translated Locale Name](#translated-locale-name)
 * [Go Router Uri](#go-router-uri)
 * [Json Object Model](#json-object-model)
 * [Pump App Tester](#pump-app-tester)
@@ -16,6 +17,12 @@ Some tips and tricks in Flutter & Dart.
 * [Compare two versions](#compare-two-versions)
 * [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
+
+# Translated Locale Name
+
+[Source code](source/translated_locale_name.dart)
+
+![](images/translated_locale_name.png)
 
 # Go Router Uri
 
