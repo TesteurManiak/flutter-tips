@@ -6,6 +6,7 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
+* [Deep Checkbox](#deep-checkbox)
 * [Translated Locale Name](#translated-locale-name)
 * [Go Router Uri](#go-router-uri)
 * [Json Object Model](#json-object-model)
@@ -17,6 +18,12 @@ Some tips and tricks in Flutter & Dart.
 * [Compare two versions](#compare-two-versions)
 * [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
+
+# Deep Checkbox
+
+[Source code](source/deep_checkbox.dart)
+
+![](images/deep_checkbox.gif)
 
 # Translated Locale Name
 
