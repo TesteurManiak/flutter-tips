@@ -6,6 +6,7 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
+* [Price Format](#price-format)
 * [Deep Checkbox](#deep-checkbox)
 * [Translated Locale Name](#translated-locale-name)
 * [Go Router Uri](#go-router-uri)
@@ -18,6 +19,14 @@ Some tips and tricks in Flutter & Dart.
 * [Compare two versions](#compare-two-versions)
 * [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
+
+# Price Format
+
+[Source code](source/price_format.dart)
+
+[Try a demo](https://dartpad.dev/?id=db6fd485e310437f816bb0d32635803c)
+
+![](images/price_format.png)
 
 # Deep Checkbox
 
