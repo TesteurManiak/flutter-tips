@@ -6,6 +6,7 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
+* [Override Asset Bundle](#override-asset-bundle)
 * [Price Format](#price-format)
 * [Deep Checkbox](#deep-checkbox)
 * [Translated Locale Name](#translated-locale-name)
@@ -19,6 +20,12 @@ Some tips and tricks in Flutter & Dart.
 * [Compare two versions](#compare-two-versions)
 * [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
+
+# Override Asset Bundle
+
+[Source Code](source/override_asset_bundle.dart)
+
+![](images/fallback_asset_bundle.png)
 
 # Price Format
 
