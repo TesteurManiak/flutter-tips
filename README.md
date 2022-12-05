@@ -6,7 +6,7 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
-* [SliverSeparatedChildBuilderDelegate](#sliver-separated-child-builder-delegate)
+* [SliverSeparatedChildBuilderDelegate](#sliverseparatedchildbuilderdelegate)
 * [Test with](#test-with)
 * [Override Asset Bundle](#override-asset-bundle)
 * [Price Format](#price-format)
