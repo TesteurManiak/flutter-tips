@@ -27,6 +27,8 @@ Some tips and tricks in Flutter & Dart.
 
 [Source Code](source/sliver_separated_child_builder_delegate.dart)
 
+[Try a demo](https://dartpad.dev/?id=e478318e74333e0c981f9b94188508ab)
+
 ![](images/sliver_separated_child_builder_delegate.png)
 
 # Test with
