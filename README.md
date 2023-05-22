@@ -6,6 +6,7 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
+* [Separated with](#separated-with)
 * [SliverSeparatedChildBuilderDelegate](#sliverseparatedchildbuilderdelegate)
 * [Test with](#test-with)
 * [Override Asset Bundle](#override-asset-bundle)
@@ -22,6 +23,12 @@ Some tips and tricks in Flutter & Dart.
 * [Compare two versions](#compare-two-versions)
 * [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
+
+# Separated with
+
+[Source Code](source/separated_with.dart)
+
+![](images/separated_with.png)
 
 # SliverSeparatedChildBuilderDelegate
 
