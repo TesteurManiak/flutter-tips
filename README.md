@@ -6,6 +6,8 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
+* [CollectionOfOne](#collectionofone)
+* [Safe ID](#safe-id)
 * [Unwrap](#unwrap)
 * [Separated with](#separated-with)
 * [SliverSeparatedChildBuilderDelegate](#sliverseparatedchildbuilderdelegate)
@@ -24,6 +26,18 @@ Some tips and tricks in Flutter & Dart.
 * [Compare two versions](#compare-two-versions)
 * [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
+
+# CollectionOfOne
+
+[Source Code](source/collection_of_one.dart)
+
+![](images/collection_of_one.dart)
+
+# Safe ID
+
+[Source Code](source/safe_id.dart)
+
+![](images/safe_id.png)
 
 # Unwrap
 
