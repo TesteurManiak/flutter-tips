@@ -31,7 +31,7 @@ Some tips and tricks in Flutter & Dart.
 
 [Source Code](source/collection_of_one.dart)
 
-![](images/collection_of_one.dart)
+![](images/collection_of_one.png)
 
 # Safe ID
 
