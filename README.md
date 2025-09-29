@@ -6,6 +6,7 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
+* [Optional](#optional)
 * [CollectionOfOne](#collectionofone)
 * [Safe ID](#safe-id)
 * [Unwrap](#unwrap)
@@ -26,6 +27,12 @@ Some tips and tricks in Flutter & Dart.
 * [Compare two versions](#compare-two-versions)
 * [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
+
+# Optional
+
+[Source Code](source/optional.dart)
+
+![](images/optional.png)
 
 # CollectionOfOne
 
