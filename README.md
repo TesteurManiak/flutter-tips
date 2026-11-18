@@ -6,6 +6,7 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
+* [Debouncer](#debouncer)
 * [Optional](#optional)
 * [CollectionOfOne](#collectionofone)
 * [Safe ID](#safe-id)
@@ -27,6 +28,12 @@ Some tips and tricks in Flutter & Dart.
 * [Compare two versions](#compare-two-versions)
 * [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
+
+# Debouncer
+
+[Source Code](source/debouncer.dart)
+
+![](images/debouncer.png)
 
 # Optional
 
