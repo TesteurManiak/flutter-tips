@@ -6,6 +6,7 @@ Some tips and tricks in Flutter & Dart.
 
 # Table of Contents
 
+* [Async Operation](#async-operation)
 * [Debouncer](#debouncer)
 * [Optional](#optional)
 * [CollectionOfOne](#collectionofone)
@@ -28,6 +29,12 @@ Some tips and tricks in Flutter & Dart.
 * [Compare two versions](#compare-two-versions)
 * [Benchmark async method](#benchmark-async-method)
 * [JSON decoding](#json-decoding)
+
+# Async Operation
+
+[Source Code](source/async_operation.dart)
+
+![](images/async_operation.png)
 
 # Debouncer
 
